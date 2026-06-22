@@ -1,0 +1,23 @@
+# Exercises - Strict Mode
+
+## Exercise 1: Basic Understanding
+Write a simple program that demonstrates Strict Mode.
+
+## Exercise 2: Practical Application
+Create a function that uses Strict Mode to solve a real-world problem.
+
+## Exercise 3: Advanced Challenge
+Implement a solution using Strict Mode with proper error handling and edge case coverage.
+
+## Exercise 4: Code Review
+Review the following code and identify issues related to Strict Mode:
+
+```javascript
+// TODO: Add example code with intentional mistakes
+```
+
+## Exercise 5: Build Something
+Build a small utility that leverages Strict Mode effectively.
+
+## Solutions
+Try solving these on your own before looking at solutions.
